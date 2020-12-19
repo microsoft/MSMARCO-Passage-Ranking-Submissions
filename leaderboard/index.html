@@ -81,7 +81,10 @@
         element: "table-container", 
         allow_download: false,
         csv_options: {separator: ',', delimiter: '"'},
-        datatables_options: {"paging": false},
+        datatables_options: {
+          "paging": false,
+          "order": [[ 7, "eval" ]]
+        },
         custom_formatting: [[1, description_format], [3, paper_link], [4, code_link]]
       });
     </script>
