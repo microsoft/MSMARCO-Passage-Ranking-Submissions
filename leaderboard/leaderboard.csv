@@ -1,106 +1,106 @@
-,description,team,paper,code,type,date,eval,dev
-🏆,RocketQA + ERNIE,Baidu NLP,https://arxiv.org/abs/2010.08191,,full ranking,2020/09/18,0.426,0.439
-🏆,UED-Large,anonymous,,,full ranking,2020/08/12,0.424,0.436
-🏆,DR-BERT,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/20,0.419,0.420
-🏆,expando-mono-duo-T5,"Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",,,full ranking,2020/05/19,0.408,0.420
-,"DeepCT + TF-Ranking Ensemble of BERT, ROBERTA and ELECTRA","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,full ranking,2020/06/02,0.407,0.421
-🏆,UED,anonymous,,,full ranking,2020/05/05,0.405,0.414
-,UED-Large,anonymous,,,full ranking,2020/08/11,0.405,
-,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/11,0.401,0.412
-🏆,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/01/21,0.400,0.401
-,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/08,0.400,0.401
-,"DeepCT Retrieval + TF-Ranking BERT Ensemble","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,full ranking,2020/04/10,0.395,0.405
-,"Knowledge Distilled Student + Teacher Ensemble","Sebastian Hofstätter, Sophia Althammer, Michael Schröder, Mete Sertkan, Allan Hanbury — TU Wien",https://arxiv.org/abs/2010.02666,https://github.com/sebastian-hofstaetter/neural-ranking-kd,full ranking,2020/11/30,0.399,0.407
-,DeepCT + Bart,Binsheng Liu — RMIT University,,,full ranking,2020/05/06,0.394,0.408
-🏆,Enriched BERT base + AOA index + CAS,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/08/20,0.393,0.408
-,"TF-Ranking Ensemble of BERT, ROBERTA and ELECTRA","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reranking,2020/06/02,0.391,0.405
-🏆,BM25 + Bert-C,sookienlane,,,full ranking,2019/02/21,0.388,0.394
-,W-Index retrieval + BERT-F re-rank,Zhuyun Dai — Carnegie Mellon University,,,full ranking,2019/09/12,0.388,0.394
-,"BM25 + monoT5-3B","Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",,,full ranking,2020/10/02,0.388,0.398
-,Enriched BERT base + AOA index V1,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/13,0.383,0.397
-,"BERTter pretraining","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",,,full ranking,2019/05/21,0.383,0.395
-,R-Index and R-BERT,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/01/14,0.382,0.429
-,Enriched BERT base + AOA index V2,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/13,0.380,0.389
-,"BM25 + monoBERT + duoBERT + TCP","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,https://github.com/castorini/duobert,full ranking,2019/06/26,0.379,0.390
-,BM25 + Electra Large,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/13,0.376,0.388
-,"BERT^2","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",,,full ranking,2019/05/13,0.375,0.386
-,"TF-Ranking + BERT (Ensemble of pointwise, pairwise and listwise losses)","TF-Ranking team (Shuguang Han, Xuanhui Wang, Michael Bendersky, and Marc Najork) — Google Research",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reranking,2020/03/30,0.375,0.388
-,BM25 + Roberta Large,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/13,0.375,0.386
-,Enriched BERT base + AOA index,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/06,0.373,0.387
-,"BM25 + monoBERT + duoBERT","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,,full ranking,2019/06/26,0.370,0.382
-,ReinforcedQGen+BERTRank,Rajarshee Mitra — Microsoft STCI,,,full ranking,2019/08/05,0.369,
-,"BERTter Indexing","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/08,0.368,0.375
-,Enriched BERT base + AOA index,Ming Yan — Alibaba Damo NLP,,,reranking,2019/05/06,0.368,0.373
-,"ELECTRA-Large","Jheng-Hong Yang (1), Sheng-Chieh Lin (1), Rodrigo Nogueira (2), and Jimmy Lin (2) — Academia Sinica (1) and University of Waterloo (2)",,,reranking,2020/03/23,0.367,0.376
-,"TF-Ranking + BERT (Softmax Loss, List size 6, 200k steps)","TF-Ranking team (Shuguang Han, Xuanhui Wang, Michael Bendersky, and Marc Najork) - Google Research",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reraking,2020/03/16,0.366,0.378
-,"BM25 + monoBERT","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,,full ranking,2019/06/26,0.365,0.372
-,BERT base + attention ranking,anonymous,,,reranking,2019/08/26,0.364,0.377
-🏆,"BERT + Small Training","(1) Rodrigo Nogueira and (2) Kyunghyun Cho — New York University (1,2) and Facebook AI Research (2)",https://arxiv.org/abs/1901.04085,https://github.com/nyu-dl/dl4marco-bert,reranking,2019/01/07,0.359,0.365
-,"SAN + BERT base","Yu Wang, Xiaodong Liu, Jianfeng Gao — Deep Learning Group, Microsoft Research AI",https://arxiv.org/pdf/1804.07888.pdf,,reranking,2019/01/22,0.359,0.370
-,"BERT + Projected Matching","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/07,0.356,
-,BERT base + L2R,Ming Yan — Alibaba Damo NLP,,,reranking,2019/03/16,0.356,0.364
-,LBERT-base,anonymous,,,reranking,2019/03/01,0.349,
-,"BERT-Base","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/08,0.349,0.358
-,BERT base + attention ranking,anonymous,,,reranking,2019/03/01,0.347,0.317
-,"BERT + Small Training","Xue-He Wang, Chia-Hung Yuan, Bing-Han Chiang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/20,0.347,0.361
-,BERT-base + ranking loss + horovod,Milk&Cereal,,,reranking,2019/05/06,0.346,0.352
-,BERT-base fine-tune,ICT-NLU,,,reranking,2019/05/23,0.346,0.349
-,"BERT, Roberta, Electra, Anserini, DeepCT retrieval models (ensembled)","Leonid Pugachev, DeepPavlov - Moscow Institute of Physics and Technology",,,reranking,2020/07/20,0.346,0.394
-,BM25 + BERT Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/07,0.345,0.349
-,BERT base + attention ranking,anonymous,,,reranking,2019/03/11,0.344,
-,BM25 + Electra Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/07,0.344,0.352
-,BERT base + attention ranking,anonymous,,,reranking,2019/03/04,0.343,
-,Bert-base + hinge ranking loss,Milk&Cereral,,,reranking,2019/04/24,0.342,0.345
-,BERT + L2R,ICT-NLU,,,reranking,2019/06/11,0.342,0.348
-,"BERT-LLR","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/06,0.342,0.352
-,"BERT-RI","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/07,0.340,0.352
-,"BERT + ENA","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/11,0.339,
-,"BERT Base + Highway + Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/09,0.336,0.340
-,"BERT Base + Highway+Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/11,0.336,
-,BERT Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/07/28,0.336,
-,ME-Hybrid,"Google Research",,,full ranking,2020/08/18,0.336,0.343
-,BERT base + attention ranking,anonymous,,,reranking,2019/03/02,0.335,
-,BERT Base Finetuned 400k steps,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2020/02/13,0.335,
-,"BERT + CNN","Chia-Hung Yuan, Bing-Han Chiang, Xue-He Wang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/15,0.333,0.346
-,"BERT + Multilayer Interaction","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/19,0.329,0.311
-,"BERT base + ranking","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/08,0.326,0.316
-,"BERT Base + Highway + Ranking Loss","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/09,0.323,
-,ME-BERT,"Google Research",,,full ranking,2020/08/10,0.323,0.334
-,"RDBERT-Embedding","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/05/13,0.313,0.320
-,"FastText + Conv-KNRM (Ensemble)","Sebastian Hofstätter (1), Navid Rekabsaz (2), Carsten Eickhoff (3), and Allan Hanbury (1) — TU Wien (1), Idiap Research Institute (2), and Brown University (3)",https://arxiv.org/abs/1904.12683,https://github.com/sebastian-hofstaetter/sigir19-neural-ir,reranking,2019/05/08,0.309,0.318
-,biLSTM + Co-attention on n-grams + query-based scorer,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2020/06/16,0.309,0.319
-,DE-Hybrid,"Google Research",,,full ranking,2020/09/18,0.306,0.309
-,BiLSTM + Co-attention on n-grams,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2019/05/14,0.299,0.310
-,n-gram co-attention,Yon,,,reranking,2020/07/23,0.299,0.303
-,DE-BERT,"Google Research",,,full ranking,2020/07/31,0.295,0.302
-,"RepBERT","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — IR Group, Tsinghua University",https://arxiv.org/abs/2006.15498,https://github.com/jingtaozhan/RepBERT-Index,full ranking,2020/06/23,0.294,0.304
-,BiLSTM + Co-Attention + self attention based document scorer,Chaitanya Sai Alaparthi — IIIT-Hyderabad,https://arxiv.org/abs/1906.06056,,reranking,2020/04/29,0.291,0.298
-,docTTTTTquery + T5QLM,IELab — The University of Queensland,,,full ranking,2020/09/03,0.289,0.300
-,BiLSTM + CoAttention,Chaitanya Sai Alaparthi — IIIT-Hyderabad,https://arxiv.org/abs/1906.06056,,reranking,2020/04/13,0.286,0.288
-🏆,"IRNet (Deep CNN/IR Hybrid Network)","Dave DeBarr, Navendu Jain, Robert Sim, Justin Wang, Nirupama Chandrasekaran — Microsoft",,,reranking,2019/01/02,0.281,0.278
-,"FastText + Conv-KNRM (Single)","Sebastian Hofstätter (1), Navid Rekabsaz (2), Carsten Eickhoff (3), and Allan Hanbury (1) — TU Wien (1), Idiap Research Institute (2), and Brown University (3)",https://arxiv.org/abs/1904.12683,https://github.com/sebastian-hofstaetter/sigir19-neural-ir,reranking,2019/05/08,0.277,0.290
-,"docTTTTTquery","Rodrigo Nogueira (Epistemic AI), Jimmy Lin (University of Waterloo)",https://cs.uwaterloo.ca/~jimmylin/publications/Nogueira_Lin_2019_docTTTTTquery.pdf,https://github.com/castorini/docTTTTTquery,full ranking,2019/11/27,0.272,0.277
-🏆,"Neural Kernel Match IR (Conv-KNRM) (Ensembled)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2018/11/28,0.271,0.290
-,"Axiom-Regularized Conv-KNRM","Corby Rosset, Bhaskar Mitra, Chenyan Xiong, Nick Craswell, Xia Song, Saurabh Tiwary — Microsoft AI & Research",https://www.microsoft.com/en-us/research/publication/an-axiomatic-approach-to-regularizing-neural-ranking-models/,,reranking,2019/02/19,0.263,0.262
-,α-SVS,NTT Media Intelligence Laboratories,,,full ranking,2020/06/29,0.262,0.259
-,Encoder-Decoder model with attention + multi loss,Youngjin Jang,,,reranking,2020/06/03,0.261,0.273
-,R3D,anonymous,,,reranking,2020/03/04,0.260,0.243
-,"BERT, Roberta, Electra, Anserini, DeepCT retrieval models (ensembled)","Leonid Pugachev, DeepPavlov — Moscow Institute of Physics and Technology",,,reranking,2020/06/23,0.259,0.263
-🏛,"Duet V2 (Ensembled)","Bhaskar Mitra, Fernando Diaz, Nick Craswell — Microsoft AI & Research",https://arxiv.org/abs/1903.07666,https://github.com/dfcf93/MSMARCO/tree/master/Ranking/Baselines,reranking,2019/02/19,0.253,0.252
-,"Duet with query term independence assumption (Single)","Bhaskar Mitra (1, 2), Corby Rosset (1), David Hawking (1), Nick Craswell (1), Fernando Diaz (1), and Emine Yilmaz (2) — (1) Microsoft and (2) UCL",https://arxiv.org/pdf/1907.03693.pdf,,reranking,2019/03/14,0.252,0.254
-,"Neural Kernel Match IR (Conv-KNRM) (Single)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2019/02/19,0.247,0.247
-,BM25 (Anserini) + ALBERT Bi-encoder for First-stage Ranking,"Marco Wrzalik — LAVIS Group, RheinMain University of Applied Sciences",,,full ranking,2020/04/24,0.247,0.249
-🏛,"Duet V2 (Single)","Bhaskar Mitra, Fernando Diaz, Nick Craswell — Microsoft AI & Research",https://arxiv.org/abs/1903.07666,https://github.com/dfcf93/MSMARCO/tree/master/Ranking/Baselines,reranking,2019/02/20,0.245,0.243
-,DW Index + BM25,anonymous,,,full ranking,2019/04/29,0.239,0.243
-,"BERT Base + Highway + Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/05,0.223,0.340
-,"BERT Base + Highway + Ranking Loss","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/05,0.222,0.340
-,"BM25 (Anserini) + doc2query","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/10,0.218,0.215
-🏆,"Neural Kernel Match IR (Conv-KNRM) (Ensembled)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2018/11/26,0.199,0.199
-,"Neural Kernel Match IR (KNRM)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://arxiv.org/abs/1706.06613,,reranking,2018/12/10,0.198,0.218
-,"Feature-based LeToR: simple-feature based RankSVM","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",,,reranking,2018/12/10,0.191,0.195
-,"BM25 (Lucene8, tuned)","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,,full ranking,2019/06/26,0.190,0.187
-,"BM25 (Anserini)","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/10,0.186,0.184
-,Unnamed,Hongyin Zhu,,,reranking,2019/06/26,0.174,
-🏛,BM25,"Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford (Implemented by MSMARCO Team)",https://trec.nist.gov/pubs/trec3/papers/city.ps.gz,,full ranking,2018/11/01,0.165,0.167
-,FastMatch,anonymous,,,reranking,2020/08/17,0.154,0.329
-,"BERT Represenatation","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/19,0.015,0.043
+,description,team,paper,code,type,date,eval,dev,tweet
+🏆,RocketQA + ERNIE,Baidu NLP,https://arxiv.org/abs/2010.08191,,full ranking,2020/09/18,0.426,0.439,
+🏆,UED-Large,anonymous,,,full ranking,2020/08/12,0.424,0.436,
+🏆,DR-BERT,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/20,0.419,0.420,
+🏆,expando-mono-duo-T5,"Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",,,full ranking,2020/05/19,0.408,0.420,
+,"DeepCT + TF-Ranking Ensemble of BERT, ROBERTA and ELECTRA","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,full ranking,2020/06/02,0.407,0.421,
+🏆,UED,anonymous,,,full ranking,2020/05/05,0.405,0.414,
+,UED-Large,anonymous,,,full ranking,2020/08/11,0.405,,
+,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/11,0.401,0.412,
+🏆,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/01/21,0.400,0.401,
+,TABLE Model,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/08,0.400,0.401,
+,"DeepCT Retrieval + TF-Ranking BERT Ensemble","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,full ranking,2020/04/10,0.395,0.405,
+,"Knowledge Distilled Student + Teacher Ensemble","Sebastian Hofstätter, Sophia Althammer, Michael Schröder, Mete Sertkan, Allan Hanbury — TU Wien",https://arxiv.org/abs/2010.02666,https://github.com/sebastian-hofstaetter/neural-ranking-kd,full ranking,2020/11/30,0.399,0.407,
+,DeepCT + Bart,Binsheng Liu — RMIT University,,,full ranking,2020/05/06,0.394,0.408,
+🏆,Enriched BERT base + AOA index + CAS,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/08/20,0.393,0.408,
+,"TF-Ranking Ensemble of BERT, ROBERTA and ELECTRA","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reranking,2020/06/02,0.391,0.405,
+🏆,BM25 + Bert-C,sookienlane,,,full ranking,2019/02/21,0.388,0.394,
+,W-Index retrieval + BERT-F re-rank,Zhuyun Dai — Carnegie Mellon University,,,full ranking,2019/09/12,0.388,0.394,
+,"BM25 + monoT5-3B","Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",,,full ranking,2020/10/02,0.388,0.398,
+,Enriched BERT base + AOA index V1,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/13,0.383,0.397,
+,"BERTter pretraining","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",,,full ranking,2019/05/21,0.383,0.395,
+,R-Index and R-BERT,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/01/14,0.382,0.429,
+,Enriched BERT base + AOA index V2,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/13,0.380,0.389,
+,"BM25 + monoBERT + duoBERT + TCP","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,https://github.com/castorini/duobert,full ranking,2019/06/26,0.379,0.390,
+,BM25 + Electra Large,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/13,0.376,0.388,
+,"BERT^2","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",,,full ranking,2019/05/13,0.375,0.386,
+,"TF-Ranking + BERT (Ensemble of pointwise, pairwise and listwise losses)","TF-Ranking team (Shuguang Han, Xuanhui Wang, Michael Bendersky, and Marc Najork) — Google Research",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reranking,2020/03/30,0.375,0.388,
+,BM25 + Roberta Large,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/13,0.375,0.386,
+,Enriched BERT base + AOA index,Ming Yan — Alibaba Damo NLP,,,full ranking,2019/05/06,0.373,0.387,
+,"BM25 + monoBERT + duoBERT","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,,full ranking,2019/06/26,0.370,0.382,
+,ReinforcedQGen+BERTRank,Rajarshee Mitra — Microsoft STCI,,,full ranking,2019/08/05,0.369,,
+,"BERTter Indexing","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/08,0.368,0.375,
+,Enriched BERT base + AOA index,Ming Yan — Alibaba Damo NLP,,,reranking,2019/05/06,0.368,0.373,
+,"ELECTRA-Large","Jheng-Hong Yang (1), Sheng-Chieh Lin (1), Rodrigo Nogueira (2), and Jimmy Lin (2) — Academia Sinica (1) and University of Waterloo (2)",,,reranking,2020/03/23,0.367,0.376,
+,"TF-Ranking + BERT (Softmax Loss, List size 6, 200k steps)","TF-Ranking team (Shuguang Han, Xuanhui Wang, Michael Bendersky, and Marc Najork) - Google Research",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,reraking,2020/03/16,0.366,0.378,
+,"BM25 + monoBERT","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1910.14424,,full ranking,2019/06/26,0.365,0.372,
+,BERT base + attention ranking,anonymous,,,reranking,2019/08/26,0.364,0.377,
+🏆,"BERT + Small Training","(1) Rodrigo Nogueira and (2) Kyunghyun Cho — New York University (1,2) and Facebook AI Research (2)",https://arxiv.org/abs/1901.04085,https://github.com/nyu-dl/dl4marco-bert,reranking,2019/01/07,0.359,0.365,
+,"SAN + BERT base","Yu Wang, Xiaodong Liu, Jianfeng Gao — Deep Learning Group, Microsoft Research AI",https://arxiv.org/pdf/1804.07888.pdf,,reranking,2019/01/22,0.359,0.370,
+,"BERT + Projected Matching","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/07,0.356,,
+,BERT base + L2R,Ming Yan — Alibaba Damo NLP,,,reranking,2019/03/16,0.356,0.364,
+,LBERT-base,anonymous,,,reranking,2019/03/01,0.349,,
+,"BERT-Base","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/08,0.349,0.358,
+,BERT base + attention ranking,anonymous,,,reranking,2019/03/01,0.347,0.317,
+,"BERT + Small Training","Xue-He Wang, Chia-Hung Yuan, Bing-Han Chiang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/20,0.347,0.361,
+,BERT-base + ranking loss + horovod,Milk&Cereal,,,reranking,2019/05/06,0.346,0.352,
+,BERT-base fine-tune,ICT-NLU,,,reranking,2019/05/23,0.346,0.349,
+,"BERT, Roberta, Electra, Anserini, DeepCT retrieval models (ensembled)","Leonid Pugachev, DeepPavlov - Moscow Institute of Physics and Technology",,,reranking,2020/07/20,0.346,0.394,
+,BM25 + BERT Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/07,0.345,0.349,
+,BERT base + attention ranking,anonymous,,,reranking,2019/03/11,0.344,,
+,BM25 + Electra Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/08/07,0.344,0.352,
+,BERT base + attention ranking,anonymous,,,reranking,2019/03/04,0.343,,
+,Bert-base + hinge ranking loss,Milk&Cereral,,,reranking,2019/04/24,0.342,0.345,
+,BERT + L2R,ICT-NLU,,,reranking,2019/06/11,0.342,0.348,
+,"BERT-LLR","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/06,0.342,0.352,
+,"BERT-RI","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/07,0.340,0.352,
+,"BERT + ENA","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/11,0.339,,
+,"BERT Base + Highway + Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/09,0.336,0.340,
+,"BERT Base + Highway+Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/11,0.336,,
+,BERT Base,OpenMatch — THU-MSR,,https://github.com/thunlp/OpenMatch,reranking,2020/07/28,0.336,,
+,ME-Hybrid,"Google Research",,,full ranking,2020/08/18,0.336,0.343,
+,BERT base + attention ranking,anonymous,,,reranking,2019/03/02,0.335,,
+,BERT Base Finetuned 400k steps,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2020/02/13,0.335,,
+,"BERT + CNN","Chia-Hung Yuan, Bing-Han Chiang, Xue-He Wang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/15,0.333,0.346,
+,"BERT + Multilayer Interaction","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/19,0.329,0.311,
+,"BERT base + ranking","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/08,0.326,0.316,
+,"BERT Base + Highway + Ranking Loss","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/09,0.323,,
+,ME-BERT,"Google Research",,,full ranking,2020/08/10,0.323,0.334,
+,"RDBERT-Embedding","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/05/13,0.313,0.320,
+,"FastText + Conv-KNRM (Ensemble)","Sebastian Hofstätter (1), Navid Rekabsaz (2), Carsten Eickhoff (3), and Allan Hanbury (1) — TU Wien (1), Idiap Research Institute (2), and Brown University (3)",https://arxiv.org/abs/1904.12683,https://github.com/sebastian-hofstaetter/sigir19-neural-ir,reranking,2019/05/08,0.309,0.318,
+,biLSTM + Co-attention on n-grams + query-based scorer,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2020/06/16,0.309,0.319,
+,DE-Hybrid,"Google Research",,,full ranking,2020/09/18,0.306,0.309,
+,BiLSTM + Co-attention on n-grams,Chaitanya Sai Alaparthi — IIIT-Hyderabad,,,reranking,2019/05/14,0.299,0.310,
+,n-gram co-attention,Yon,,,reranking,2020/07/23,0.299,0.303,
+,DE-BERT,"Google Research",,,full ranking,2020/07/31,0.295,0.302,
+,"RepBERT","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — IR Group, Tsinghua University",https://arxiv.org/abs/2006.15498,https://github.com/jingtaozhan/RepBERT-Index,full ranking,2020/06/23,0.294,0.304,
+,BiLSTM + Co-Attention + self attention based document scorer,Chaitanya Sai Alaparthi — IIIT-Hyderabad,https://arxiv.org/abs/1906.06056,,reranking,2020/04/29,0.291,0.298,
+,docTTTTTquery + T5QLM,IELab — The University of Queensland,,,full ranking,2020/09/03,0.289,0.300,
+,BiLSTM + CoAttention,Chaitanya Sai Alaparthi — IIIT-Hyderabad,https://arxiv.org/abs/1906.06056,,reranking,2020/04/13,0.286,0.288,
+🏆,"IRNet (Deep CNN/IR Hybrid Network)","Dave DeBarr, Navendu Jain, Robert Sim, Justin Wang, Nirupama Chandrasekaran — Microsoft",,,reranking,2019/01/02,0.281,0.278,
+,"FastText + Conv-KNRM (Single)","Sebastian Hofstätter (1), Navid Rekabsaz (2), Carsten Eickhoff (3), and Allan Hanbury (1) — TU Wien (1), Idiap Research Institute (2), and Brown University (3)",https://arxiv.org/abs/1904.12683,https://github.com/sebastian-hofstaetter/sigir19-neural-ir,reranking,2019/05/08,0.277,0.290,
+,"docTTTTTquery","Rodrigo Nogueira (Epistemic AI), Jimmy Lin (University of Waterloo)",https://cs.uwaterloo.ca/~jimmylin/publications/Nogueira_Lin_2019_docTTTTTquery.pdf,https://github.com/castorini/docTTTTTquery,full ranking,2019/11/27,0.272,0.277,
+🏆,"Neural Kernel Match IR (Conv-KNRM) (Ensembled)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2018/11/28,0.271,0.290,
+,"Axiom-Regularized Conv-KNRM","Corby Rosset, Bhaskar Mitra, Chenyan Xiong, Nick Craswell, Xia Song, Saurabh Tiwary — Microsoft AI & Research",https://www.microsoft.com/en-us/research/publication/an-axiomatic-approach-to-regularizing-neural-ranking-models/,,reranking,2019/02/19,0.263,0.262,
+,α-SVS,NTT Media Intelligence Laboratories,,,full ranking,2020/06/29,0.262,0.259,
+,Encoder-Decoder model with attention + multi loss,Youngjin Jang,,,reranking,2020/06/03,0.261,0.273,
+,R3D,anonymous,,,reranking,2020/03/04,0.260,0.243,
+,"BERT, Roberta, Electra, Anserini, DeepCT retrieval models (ensembled)","Leonid Pugachev, DeepPavlov — Moscow Institute of Physics and Technology",,,reranking,2020/06/23,0.259,0.263,
+🏛,"Duet V2 (Ensembled)","Bhaskar Mitra, Fernando Diaz, Nick Craswell — Microsoft AI & Research",https://arxiv.org/abs/1903.07666,https://github.com/dfcf93/MSMARCO/tree/master/Ranking/Baselines,reranking,2019/02/19,0.253,0.252,
+,"Duet with query term independence assumption (Single)","Bhaskar Mitra (1, 2), Corby Rosset (1), David Hawking (1), Nick Craswell (1), Fernando Diaz (1), and Emine Yilmaz (2) — (1) Microsoft and (2) UCL",https://arxiv.org/pdf/1907.03693.pdf,,reranking,2019/03/14,0.252,0.254,
+,"Neural Kernel Match IR (Conv-KNRM) (Single)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2019/02/19,0.247,0.247,
+,BM25 (Anserini) + ALBERT Bi-encoder for First-stage Ranking,"Marco Wrzalik — LAVIS Group, RheinMain University of Applied Sciences",,,full ranking,2020/04/24,0.247,0.249,
+🏛,"Duet V2 (Single)","Bhaskar Mitra, Fernando Diaz, Nick Craswell — Microsoft AI & Research",https://arxiv.org/abs/1903.07666,https://github.com/dfcf93/MSMARCO/tree/master/Ranking/Baselines,reranking,2019/02/20,0.245,0.243,
+,DW Index + BM25,anonymous,,,full ranking,2019/04/29,0.239,0.243,
+,"BERT Base + Highway + Cross Entropy Loss + Axioms","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/05,0.223,0.340,
+,"BERT Base + Highway + Ranking Loss","Di Zhao, Hui Fang — UD Infolab",,,reranking,2019/08/05,0.222,0.340,
+,"BM25 (Anserini) + doc2query","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/10,0.218,0.215,
+🏆,"Neural Kernel Match IR (Conv-KNRM) (Ensembled)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://dl.acm.org/citation.cfm?doid=3159652.3159659,,reranking,2018/11/26,0.199,0.199,
+,"Neural Kernel Match IR (KNRM)","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",https://arxiv.org/abs/1706.06613,,reranking,2018/12/10,0.198,0.218,
+,"Feature-based LeToR: simple-feature based RankSVM","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Liu — Tsinghua University (1,3,4) and Microsoft Research AI (2)",,,reranking,2018/12/10,0.191,0.195,
+,"BM25 (Lucene8, tuned)","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,,full ranking,2019/06/26,0.190,0.187,
+,"BM25 (Anserini)","(1) Rodrigo Nogueira, (2) Wei Yang, (3) Jimmy Lin, (4) Kyunghyun Cho — New York University (1,4), University of Waterloo (2,3), and Facebook AI Research (4)",https://arxiv.org/abs/1904.08375,https://github.com/nyu-dl/dl4ir-doc2query,full ranking,2019/04/10,0.186,0.184,
+,Unnamed,Hongyin Zhu,,,reranking,2019/06/26,0.174,,
+🏛,BM25,"Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford (Implemented by MSMARCO Team)",https://trec.nist.gov/pubs/trec3/papers/city.ps.gz,,full ranking,2018/11/01,0.165,0.167,
+,FastMatch,anonymous,,,reranking,2020/08/17,0.154,0.329,
+,"BERT Represenatation","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/19,0.015,0.043,
