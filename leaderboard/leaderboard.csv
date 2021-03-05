@@ -41,7 +41,7 @@
 ,BERT base + L2R,Ming Yan — Alibaba Damo NLP,,,reranking,2019/03/16,0.356,0.364,
 ,LBERT-base,anonymous,,,reranking,2019/03/01,0.349,,
 ,"BERT-Base","Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Min Zhang, Shaoping Ma — Information Retrieval Group, Tsinghua University",,,reranking,2020/04/08,0.349,0.358,
-,"PCBERT-base(128tokens)","SCNU-FOUR",,,reranking,2021/03/03,0.349,0.357
+,"PCBERT-base(128tokens)","SCNU-FOUR",,,reranking,2021/03/03,0.349,0.357,
 ,BERT base + attention ranking,anonymous,,,reranking,2019/03/01,0.347,0.317,
 ,"BERT + Small Training","Xue-He Wang, Chia-Hung Yuan, Bing-Han Chiang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/20,0.347,0.361,1143239849987604480
 ,"WAND (BM25) retrieval (text only), re-ranking 1K with ColBERT (bert medium, dim=32, cosine) using Vespa.ai","Jo Kristian Bergum - Vespa.ai",,https://github.com/vespa-engine/sample-apps/tree/master/msmarco-ranking,full ranking,2021/01/13,0.347,0.354
