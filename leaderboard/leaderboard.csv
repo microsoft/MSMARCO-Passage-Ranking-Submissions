@@ -44,7 +44,7 @@
 ,"PCBERT-base(128tokens)","SCNU-FOUR",,,reranking,2021/03/03,0.349,0.357
 ,BERT base + attention ranking,anonymous,,,reranking,2019/03/01,0.347,0.317,
 ,"BERT + Small Training","Xue-He Wang, Chia-Hung Yuan, Bing-Han Chiang, Dong-Ze Wu, Lu-Dan Ruan, Shan-Hung Wu — National Tsing Hua University",,,reranking,2019/06/20,0.347,0.361,1143239849987604480
-,"WAND (BM25) retrieval (text only), re-ranking 1K with ColBERT (bert medium, dim=32, cosine) using Vespa.ai","Jo Kristian Bergum - Vespa.ai},,https://github.com/vespa-engine/sample-apps/tree/master/msmarco-ranking,full ranking,2021/01/13,0.347,0.354
+,"WAND (BM25) retrieval (text only), re-ranking 1K with ColBERT (bert medium, dim=32, cosine) using Vespa.ai","Jo Kristian Bergum - Vespa.ai",,https://github.com/vespa-engine/sample-apps/tree/master/msmarco-ranking,full ranking,2021/01/13,0.347,0.354
 ,BERT-base + ranking loss + horovod,Milk&Cereal,,,reranking,2019/05/06,0.346,0.352,1125477051559845889
 ,BERT-base fine-tune,ICT-NLU,,,reranking,2019/05/23,0.346,0.349,1131691521328070656
 ,"BERT, Roberta, Electra, Anserini, DeepCT retrieval models (ensembled)","Leonid Pugachev, DeepPavlov - Moscow Institute of Physics and Technology",,,reranking,2020/07/20,0.346,0.394,
