@@ -107,4 +107,3 @@
 🏛,BM25,"Stephen E. Robertson, Steve Walker, Susan Jones, Micheline Hancock-Beaulieu, and Mike Gatford (Implemented by MSMARCO Team)",https://trec.nist.gov/pubs/trec3/papers/city.ps.gz,,full ranking,2018/11/01,0.165,0.167,
 ,FastMatch,anonymous,,,reranking,2020/08/17,0.154,0.329,
 ,"BERT Represenatation","(1) Yifan Qiao, (2) Chenyan Xiong, (3) Zhenghao Liu, (4) Zhiyuan Lui — Tsinghua University (1,3,4) and Microsoft Research (2)",https://arxiv.org/abs/1904.07531,,reranking,2019/02/19,0.015,0.043,
-,"PCBERT-base(256tokens)","SCNU-FOUR",,,reranking,2021/03/15,0.355,0.361,
