@@ -111,3 +111,4 @@
 ,"Structural Distributed Embedding","NRC",,,reranking,2021/03/25,0.228,0.231,
 ,"Structural Distributed Embedding","NRC",,,reranking,2021/04/01,0.233,0.241,
 ,"ColBERT for testing","Chiang HUNG YUN",,,full ranking,2021/04/15,0.337,0.339,
+,"ADORE+STAR","THUIR",https://arxiv.org/abs/2104.08051,https://github.com/jingtaozhan/DRhard,full ranking,2021/04/19,0.329,0.347,
