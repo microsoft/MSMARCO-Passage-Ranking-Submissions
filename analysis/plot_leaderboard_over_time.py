@@ -1,11 +1,18 @@
 # MS MARCO Passage: Script for plotting leaderboard over time scatter plots
 
+import pandas as pd
 import datetime
 import matplotlib.dates as mdates
 import matplotlib.pyplot as plt
 plt.switch_backend('agg')
 
-import pandas as pd
+# Solution to use Type 1 fonts:
+# https://stackoverflow.com/questions/13132194/type-1-fonts-with-log-graphs
+
+# If fonttype = 1 doesn't work with LaTeX, try fonttype 42.
+plt.rc('pdf',fonttype = 42)
+plt.rc('ps',fonttype = 42)
+
 
 df = pd.read_csv('../leaderboard/leaderboard.csv')
 df['date']= pd.to_datetime(df['date'])
@@ -21,7 +28,7 @@ bert.plot(ax=ax, x='date',y='eval',marker='o',color = 'orange',linestyle='none',
 sota = df[df['Unnamed: 0'] == '🏆']
 sota.plot(ax=ax, x='date',y='eval',marker='o',color = 'red',linestyle='none',label='SOTA')
 
-ax.set_xlim([datetime.date(2018, 10, 1), datetime.date(2021, 1, 1)])
+ax.set_xlim([datetime.date(2018, 10, 1), datetime.date(2021, 5, 1)])
 
 plt.title('MS MARCO Passage Leaderboard')
 plt.xlabel('Date')
