@@ -115,4 +115,5 @@
 ,"Anonymous","Anonymous",,,full ranking,2021/05/08,0.317,0.330,
 ,"Anonymous","Anonymous",,,full ranking,2021/05/10,0.330,0.344,
 ,"Anonymous","Anonymous",,,reranking,2021/05/10,0.340,0.349,
+,"Dense-MiniLM-L6 => (1K) Col-MiniLM-L6 => (96) > MiniLM-L6. End to end represented with Vespa.ai","Jo Kristian Bergum (Vespa.ai), Nils Reimers (Huggingface.co), Sebastian Hofstätter (TU Wien)",,,full ranking,2021/05/18,0.393,0.403,
 ,"Anonymous","Anonymous",,,full ranking,2021/05/13,0.284,0.290,
