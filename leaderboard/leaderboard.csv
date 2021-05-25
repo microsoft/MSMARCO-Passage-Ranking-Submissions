@@ -2,7 +2,7 @@
 🏆,RocketQA + ERNIE,Baidu NLP,https://arxiv.org/abs/2010.08191,,full ranking,2020/09/18,0.426,0.439,
 🏆,UED-Large,anonymous,,,full ranking,2020/08/12,0.424,0.436,1293786601823145984
 🏆,DR-BERT,X.W. S — Meituan-Dianping NLP-KG Group,,,full ranking,2020/05/20,0.419,0.420,1263190550900957184
-🏆,expando-mono-duo-T5,"Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",,,full ranking,2020/05/19,0.408,0.420,1262822416293609474
+🏆,expando-mono-duo-T5,"Ronak Pradeep, Rodrigo Nogueira, Zhiying Jiang, and Jimmy Lin — University of Waterloo",https://arxiv.org/abs/2101.05667,,full ranking,2020/05/19,0.408,0.420,1262822416293609474
 ,"DeepCT + TF-Ranking Ensemble of BERT, ROBERTA and ELECTRA","(1) Shuguang Han, (2) Zhuyun Dai, (3) Xuanhui Wang, (4) Michael Bendersky, and (5) Marc Najork — Google Research (1,3,4,5) and Carnegie Mellon (2)",https://arxiv.org/abs/2004.08476,https://github.com/tensorflow/ranking,full ranking,2020/06/02,0.407,0.421,
 🏆,UED,anonymous,,,full ranking,2020/05/05,0.405,0.414,
 ,UED-Large,anonymous,,,full ranking,2020/08/11,0.405,,
