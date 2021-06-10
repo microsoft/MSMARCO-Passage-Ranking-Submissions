@@ -120,4 +120,4 @@
 ,"CoBert Testing","Xi Lin",,,full ranking,2021/05/21,0.345,0.353,
 ,"SSFT Large","Anonymous",,,reranking,2021/06/08,0.378,0.389,
 ,"SSFT Base","Anonymous",,,reranking,2021/06/08,0.372,0.383,
-,"COIL + RoBERTa","Luyu Gao — Carnegie Mellon University",https://arxiv.org/abs/2104.07186,https://github.com/luyug/COIL,full ranking,2021/06/09,0.417,0.436,
+,"COIL + RoBERTa","Luyu Gao and Zhuyun Dai — Carnegie Mellon University",https://arxiv.org/abs/2104.07186,https://github.com/luyug/COIL,full ranking,2021/06/09,0.417,0.436,
