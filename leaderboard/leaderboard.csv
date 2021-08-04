@@ -124,3 +124,4 @@
 ,"Bert-base-pairwise","Chang Liu — Eigen Tech Limited",,,reranking,2021/07/03,0.324,0.329,
 🏆,"C-COIL + RoBERTa","Luyu Gao — Carnegie Mellon University",https://arxiv.org/abs/2104.07186,https://github.com/luyug/COIL/tree/main/examples/c-coil,full ranking,2021/07/14,0.427,0.443,
 ,"BERT-base + SMAP","Dengwen Lin — National University of Defense Technology(NUDT)",,,reranking,2021/07/31,0.355,0.367,
+,"DONE","DONE-TEAM — MSRA & Microsoft Azure AI",,,full ranking,2021/08/03,0.367,0.378,
