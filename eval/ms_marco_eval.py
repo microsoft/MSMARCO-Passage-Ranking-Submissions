@@ -14,6 +14,20 @@ from collections import Counter
 
 MaxMRRRank = 10
 
+def autoopen(filename, mode="rt"):
+    """
+    A drop-in for open() that applies automatic compression for .gz and .bz2 file extensions
+    """
+    if not 't' in mode and not 'b' in mode:
+       mode=mode+'t'
+    if filename.endswith(".gz"):
+        import gzip
+        return gzip.open(filename, mode)
+    elif filename.endswith(".bz2"):
+        import bz2
+        return bz2.open(filename, mode)
+    return open(filename, mode)
+
 def load_reference_from_stream(f):
     """Load Reference reference relevant passages
     Args:f (stream): stream to load.
@@ -71,7 +85,7 @@ def load_candidate(path_to_candidate):
     Returns:qid_to_ranked_candidate_passages (dict): dictionary mapping from query_id (int) to a list of 1000 passage ids(int) ranked by relevance and importance
     """
     
-    with open(path_to_candidate,'r') as f:
+    with autoopen(path_to_candidate,'r') as f:
         qid_to_ranked_candidate_passages = load_candidate_from_stream(f)
     return qid_to_ranked_candidate_passages
 
