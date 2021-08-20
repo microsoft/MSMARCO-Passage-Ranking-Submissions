@@ -354,3 +354,10 @@ MigrationBackup/
 
 # Emacs
 *~
+
+# PyCharm
+.idea/
+
+# Custom files
+msmarco_passage_private_key.pem
+eval/msmarco-passage-eval-qrels.tsv
