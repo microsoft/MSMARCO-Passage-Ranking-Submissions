@@ -90,9 +90,15 @@
         csv_options: {separator: ',', delimiter: '"'},
         datatables_options: {
           "paging": false,
-          "order": [[ 7, "eval" ]]
+          "order": [[ 8, "eval" ]],
+          "columnDefs": [
+          {
+            "targets": [ 0 ],
+             "visible": false,
+             "searchable": false
+          }]
         },
-        custom_formatting: [[1, description_format], [3, paper_link], [4, code_link], [9, tweet_link]]
+        custom_formatting: [[2, description_format], [4, paper_link], [5, code_link], [10, tweet_link]]
       });
     </script>
   </body>

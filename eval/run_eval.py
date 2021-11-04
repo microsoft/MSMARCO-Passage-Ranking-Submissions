@@ -115,15 +115,15 @@ def main(args):
             code = metadata['code']
 
         leaderboard_entry = [id,
-                             f'{year}/{month}/{day}',
                              '',  # this is where the emojis go
                              model_description,
                              team,
                              paper,
                              code,
                              metadata['type'],
-                             f'{round(float(dev_run_mrr), 3):.3f}',
+                             f'{year}/{month}/{day}',
                              f'{round(float(test_run_mrr), 3):.3f}',
+                             f'{round(float(dev_run_mrr), 3):.3f}',
                              ''            # This is the tweetid field, leaving empty for now
                              ]
 
