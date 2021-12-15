@@ -140,3 +140,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20211122-google-rrf,,"RRF Ensemble of TFR and GDPR+T5","Honglei Zhuang, Jing Lu, Tao Chen, Jianmo Ni, Ji Ma, Xuanhui Wang, Mingyang Zhang, Michael Bendersky - Google Research",,,full ranking,2021/11/22,0.428,0.444,
 20211203-bcai-ensemble,,"misc large BERT ensemble / hybrid retriever","Leonid Boytsov, Bosch Center for AI",https://arxiv.org/abs/2010.14848,https://github.com/oaqa/FlexNeuART,full ranking,2021/12/03,0.421,0.431,
 20211210-lichee-feeds,🏆,"Lichee-xxlarge + deberta_v3-large + Reranking","Lichee Team — Tencent QQBrowser NLP",,,full ranking,2021/12/10,0.436,0.452,
+20211214-google-gbm48,,"GBM Ensemble of TFR and T5","Honglei Zhuang, Jing Lu, Tao Chen, Jianmo Ni, Ji Ma, Xuanhui Wang, Mingyang Zhang, Michael Bendersky - Google Research",,,full ranking,2021/12/14,0.431,0.453,
