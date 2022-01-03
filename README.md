@@ -1,7 +1,7 @@
 # MS MARCO Passage Ranking Submissions
 
 This repo holds the official MS MARCO passage ranking leaderboard and describes the process for submitting runs.
-All associated data for the task (corpus, training data, eval queries, etc.) are held in [this repo](https://github.com/microsoft/MSMARCO-Passage-Ranking).
+All associated data for the task (corpus, training data, eval queries, etc.) are available [here](https://microsoft.github.io/msmarco/Datasets).
 
 ## Submission Instructions
 
