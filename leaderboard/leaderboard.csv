@@ -144,3 +144,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20211230-KRM,,"appling BERT+Conv_KNRM method initialized by BERT-BASE with 128 tokens limitation on MS MARCO dataset for baseline","Xiaoyi, Zhengyu - Tlab in South China Normal University",,,reranking,2021/12/30,0.330,0.337,
 20220106-SSJT,,"applying self-supervised method SSJT with BERT+KNRM on MS MARCO dataset for comparation","Xiaoyi, Zhengyu - Tlab in South China Normal University",,,reranking,2022/01/06,0.337,0.347,
 20220110-BPAC,,"Anonymous","Anonymous",,,reranking,2022/01/10,0.326,0.328,
+20220112-BAIDU,,"Anonymous","Anonymous",,,reranking,2022/01/12,0.377,0.394,
