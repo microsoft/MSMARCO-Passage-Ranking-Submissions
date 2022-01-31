@@ -147,3 +147,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220111-BPUI,,"Anonymous","Anonymous",,,reranking,2022/01/11,0.320,0.333,
 20220112-BAIDU,,"Anonymous","Anonymous",,,reranking,2022/01/12,0.377,0.394,
 20220112-revl147,,"Anonymous","Anonymous",,,full ranking,2022/01/12,0.435,0.450,
+20220127-bcai-ensemble,,"misc large BERT (diverse) ensemble / hybrid retriever","Leonid Boytsov, Bosch Center for AI",https://arxiv.org/abs/2010.14848,https://github.com/oaqa/FlexNeuART,full ranking,2022/01/27,0.422,0.434,
