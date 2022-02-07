@@ -150,3 +150,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220127-bcai-ensemble,,"misc large BERT (diverse) ensemble / hybrid retriever","Leonid Boytsov, Bosch Center for AI",https://arxiv.org/abs/2010.14848,https://github.com/oaqa/FlexNeuART,full ranking,2022/01/27,0.422,0.434,
 20220127-lol-ance,,"Anonymous","Anonymous",,,full ranking,2022/01/27,0.342,0.351,
 20220127-lol-unicoil,,"Anonymous","Anonymous",,,full ranking,2022/01/27,0.351,0.358,
+20220206-tangzhy,,"LTFR-large","Zhengyang Tang and Ting Yao, Tencent IPS QnA Team",,,full ranking,2022/02/06,0.432,0.447,
