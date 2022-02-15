@@ -151,3 +151,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220127-lol-ance,,"Anonymous","Anonymous",,,full ranking,2022/01/27,0.342,0.351,
 20220127-lol-unicoil,,"Anonymous","Anonymous",,,full ranking,2022/01/27,0.351,0.358,
 20220206-tangzhy,,"LTFR-large","Zhengyang Tang and Ting Yao, Tencent IPS QnA Team",,,full ranking,2022/02/06,0.432,0.447,
+20220206-Cor,,"Anonymous","Anonymous",,,reranking,2022/02/06,0.356,0.365,
