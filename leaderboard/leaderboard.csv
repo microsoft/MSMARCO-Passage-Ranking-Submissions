@@ -153,3 +153,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220206-tangzhy,,"LTFR-large","Zhengyang Tang and Ting Yao, Tencent IPS QnA Team",,,full ranking,2022/02/06,0.432,0.447,
 20220206-Cor,,"Anonymous","Anonymous",,,reranking,2022/02/06,0.356,0.365,
 20220216-revl147,🏆,"Anonymous","Anonymous",,,full ranking,2022/02/16,0.439,0.455,
+20220217-kolab,,"Anonymous","Anonymous",,,reranking,2022/02/17,0.379,0.393,
