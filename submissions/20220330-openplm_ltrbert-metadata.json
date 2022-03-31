@@ -1,7 +1,0 @@
- {
-   "team": "Weijie Liu, OpenPLM",
-   "model_description": "LTR-BERT(pointwise/CrossEntropy loss)",
-   "paper": "",
-   "code": "https://github.com/autoliuweijie/openplm",
-   "type": "reranking"
- }
