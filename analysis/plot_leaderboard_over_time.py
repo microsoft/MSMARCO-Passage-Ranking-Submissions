@@ -25,10 +25,10 @@ bert = df[df['description'].str.contains('BERT', case=False)]
 bert.plot(ax=ax, x='date',y='eval',marker='o',color = 'orange',linestyle='none',label='"BERT" technique')
 
 # Overlay all SOTA runs, in red.
-sota = df[df['Unnamed: 0'] == '🏆']
+sota = df[df['Unnamed: 1'] == '🏆']
 sota.plot(ax=ax, x='date',y='eval',marker='o',color = 'red',linestyle='none',label='SOTA')
 
-ax.set_xlim([datetime.date(2018, 10, 1), datetime.date(2021, 5, 1)])
+ax.set_xlim([datetime.date(2018, 10, 1), datetime.date(2022, 5, 1)])
 
 plt.title('MS MARCO Passage Leaderboard')
 plt.xlabel('Date')
