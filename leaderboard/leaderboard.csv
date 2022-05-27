@@ -161,3 +161,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220414-CSEN,,"CSEN-base(256)","Xiaozhi - T03lab in South China Normal University",,,reranking,2022/04/14,0.360,0.373,
 20220419-futherMLM,,"BERT+MM","Yu Fo - Text mining lab , South China Normal University",,,reranking,2022/04/19,0.347,0.357,
 20220516-DAPTsen,,"Anonymous","Anonymous",,,reranking,2022/05/16,0.383,0.394,
+20220523-DAPTword,,"Anonymous","Anonymous",,,reranking,2022/05/23,0.382,0.392,
