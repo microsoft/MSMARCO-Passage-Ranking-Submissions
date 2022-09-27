@@ -163,3 +163,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220516-DAPTsen,,"Anonymous","Anonymous",,,reranking,2022/05/16,0.383,0.394,
 20220523-DAPTword,,"Anonymous","Anonymous",,,reranking,2022/05/23,0.382,0.392,
 20220602-fusion,,"Listwise + Fusion reranker","Liang Wang - MSR Asia",,,full ranking,2022/06/02,0.440,0.454,
+20220919-cotmae,,"CoT-MAE","Xing Wu (1), GuangYuan Ma(2) — Kwai NLP team (1), Knowledge Computing and Service Group, IIE, CAS (1,2)",arxiv.org/abs/2208.07670,github.com/caskcsg/CoT-MAE,full ranking,2022/09/19,0.438,0.456,
