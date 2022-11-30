@@ -166,3 +166,4 @@ id,,description,team,paper,code,type,date,eval,dev,tweet
 20220919-cotmae,,"CoT-MAE","Xing Wu (1), GuangYuan Ma(2) — Kwai NLP team (1), Knowledge Computing and Service Group, IIE, CAS (1,2)",https://arxiv.org/abs/2208.07670,https://github.com/caskcsg/CoT-MAE,full ranking,2022/09/19,0.438,0.456,
 20220929-doc2query--,,"Anonymous","Anonymous",,,full ranking,2022/09/29,0.306,0.308,
 20220929-doc2query--electra,,"Anonymous","Anonymous",,,full ranking,2022/09/29,0.325,0.323,
+20221113-CMST,,"Multi-stage training Model CMST-base","Xiaozhi-Tlab in SCNU",,,reranking,2022/11/13,0.369,0.378,
